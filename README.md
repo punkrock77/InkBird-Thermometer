@@ -1,4 +1,4 @@
-# InkBird-Thermometer Home Assistant Template
+# InkBird Thermometer Home Assistant Template
 
 Why:
 The actual sensor will show "32" when probe is unplugged and when the Thermometer is powered off all probes will show "Unavailable".
