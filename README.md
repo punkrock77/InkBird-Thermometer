@@ -10,3 +10,5 @@ Now with this template, if the probe is unplugged it will show "off" and if the 
  The first sensor is to show if the Thermometer is on or off. Just change the entity ID to one of your probes.
  
  The next four are for each probe. Just update the entity ID's.
+
+You can add directly to configuration.yaml file.
