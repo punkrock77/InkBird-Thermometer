@@ -1,7 +1,7 @@
 # InkBird-Thermometer Home Assistant Template
 
 Why:
-The actual sensor will so "32" when probe is unplugged and when the Thermometer is powered off all probes will show "Unavailable".
+The actual sensor will show "32" when probe is unplugged and when the Thermometer is powered off all probes will show "Unavailable".
 I did not like the way this looked. 
 
 Now with this template, if the probe is unplugged it will show "off" and if the Thermometer is powered off the probes will also show "off".
